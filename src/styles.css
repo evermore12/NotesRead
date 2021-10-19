@@ -2,20 +2,16 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  background-color: #fff;
+ul {
+  list-style-type: none;
+  display: table;
+  margin: 0 auto;
+  padding-left: 0;
+  max-width: 30%;
 }
-
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
+.note {
+  font-size:medium;
 }
-
-main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+.date{
+  font-size: x-large;
 }

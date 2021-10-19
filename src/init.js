@@ -1,4 +1,4 @@
-function Note(text, date) {
+/* function Note(text, date) {
     this.text = text;
     this.date = date;
   }
@@ -13,5 +13,5 @@ window.addEventListener('load', () => {
 
         })
     )
-})
+}) */
 
