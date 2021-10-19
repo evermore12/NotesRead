@@ -19,3 +19,17 @@ main > h1 {
   text-align: center;
   font-size: 3.5em;
 }
+
+ul {
+  list-style-type: none;
+  display: table;
+  margin: 0 auto;
+  padding-left: 0;
+  max-width: 30%;
+}
+.note {
+  font-size:medium;
+}
+.date{
+  font-size: x-large;
+}
