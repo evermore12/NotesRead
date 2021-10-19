@@ -14,7 +14,7 @@ ul {
   display: table;
   margin: 0 auto;
   padding-left: 0;
-  max-width: 65rem;
+  max-width: 25rem;
 }
 li{
   margin-top: 3rem;
@@ -61,7 +61,6 @@ ul {
   font-size: large;
   font-weight: bold;
 } */
-
 
 /* body > textarea, button {
   display: block;
