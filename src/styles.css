@@ -16,6 +16,9 @@ ul {
   padding-left: 0;
   max-width: 25rem;
 }
+li{
+  margin-top: 3rem;
+}
 .note {
   font-size:medium;
 }
