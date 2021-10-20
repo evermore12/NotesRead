@@ -13,7 +13,7 @@ window.addEventListener('load', () => {
             note.className = "note"
         
             let date = document.createElement('p')
-            date.innerText = json.Date
+            date.innerText = new Date(json.Date* 1000).toLocaleString("sv-SE", {day: "numeric", month: "long"})
             date.className = "date"
 
             let li = document.createElement('li')
